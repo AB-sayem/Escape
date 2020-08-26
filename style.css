@@ -1,125 +1,213 @@
-        body {
-            margin: 0;
-            padding: 0;
-            font-family: 'Lato', sans-serif;
-        }
-        /* manu area start */
-        
-        .manu-area {
-            background-image: url(img/banner/banner.jpg);
-            background-size: cover;
-            background-repeat: no-repeat;
-            background-position: center;
-            padding: 20px 0 85px 0;
-            height: 100vh;
-        }
-        
-        .my-manu ul li a {
-            font-size: 18px;
-            color: #ffffff !important;
-            font-weight: 400;
-            padding: 20px !important;
-        }
-        
-        .header-contant {
-            padding: 120px;
-            color: #ffffff;
-        }
-        
-        .header-contant h3 {
-            font-weight: normal;
-            font-size: 32px;
-        }
-        
-        .header-contant h1 {
-            font-weight: 700;
-            font-size: 75px;
-            text-transform: uppercase;
-        }
-        
-        .btn-custom {
-            border: 1px solid #ffffff;
-            padding: 15px 60px;
-            color: #ffffff;
-            font-size: 25px;
-            font-weight: 700px;
-            margin-top: 80px;
-        }
-        
-        .btn-custom:hover {
-            color: #fff;
-        }
-        /* hader area end */
-        /* development part start */
-        
-        .development-part {
-            padding: 80px 0px;
-        }
-        
-        .top-contant h1 {
-            padding-bottom: 28px;
-            font-size: 59px;
-            margin-left: 5%;
-        }
-        
-        .top-contant p {
-            font-weight: 400;
-            font-size: 18px;
-            color: #777777;
-            padding: 0px 40px;
-            line-height: 30px;
-        }
-        
-        .bootom-contant h1 {
-            padding-bottom: 28px;
-            font-size: 59px;
-            margin-left: 5%;
-        }
-        
-        .bootom-area {
-            background-color: #fafafa;
-            padding-bottom: 70px;
-        }
-        
-        .bootom-contant p {
-            font-weight: 400;
-            font-size: 18px;
-            color: #777777;
-            padding: 0px 40px;
-            line-height: 30px;
-        }
-        /* development part end */
-        /* fetured area start */
-        
-        .fetured-area {
-            padding: 80px 0px;
-        }
-        
-        .icon {
-            width: 50px;
-            height: 50px;
-            background-color: #252525;
-            border-radius: 50%;
-            color: #ffffff;
-            text-align: center;
-            margin-left: 17px;
-            cursor: pointer;
-        }
-        
-        .icon i {
-            font-size: 35px;
-            padding-top: 6px;
-        }
-        
-        .icon-text h3 {
-            font-weight: 700;
-            font-size: 24px;
-            color: #222222;
-        }
-        
-        .icon-text p {
-            font-size: 18px;
-            font-weight: normal;
-            color: #777777;
-        }
-        /* fetured area end */
+                body {
+                    margin: 0;
+                    padding: 0;
+                    font-family: 'Lato', sans-serif;
+                }
+                /* manu area start */
+                
+                .manu-area {
+                    background-image: url(img/banner/banner.jpg);
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                    background-position: center;
+                    padding: 20px 0 85px 0;
+                    height: 100vh;
+                }
+                
+                .my-manu ul li a {
+                    font-size: 18px;
+                    color: #ffffff !important;
+                    font-weight: 400;
+                    padding: 20px !important;
+                }
+                
+                .header-contant {
+                    padding: 120px;
+                    color: #ffffff;
+                }
+                
+                .header-contant h3 {
+                    font-weight: normal;
+                    font-size: 32px;
+                }
+                
+                .header-contant h1 {
+                    font-weight: 700;
+                    font-size: 75px;
+                    text-transform: uppercase;
+                }
+                
+                .btn-custom {
+                    border: 1px solid #ffffff;
+                    padding: 15px 60px;
+                    color: #ffffff;
+                    font-size: 25px;
+                    font-weight: 700px;
+                    margin-top: 80px;
+                }
+                
+                .btn-custom:hover {
+                    color: #fff;
+                }
+                /* hader area end */
+                /* development part start */
+                
+                .development-part {
+                    padding: 80px 0px;
+                }
+                
+                .top-contant h1 {
+                    padding-bottom: 28px;
+                    font-size: 59px;
+                    margin-left: 5%;
+                }
+                
+                .top-contant p {
+                    font-weight: 400;
+                    font-size: 18px;
+                    color: #777777;
+                    padding: 0px 40px;
+                    line-height: 30px;
+                }
+                
+                .bootom-contant h1 {
+                    padding-bottom: 28px;
+                    font-size: 59px;
+                    margin-left: 5%;
+                }
+                
+                .bootom-area {
+                    background-color: #fafafa;
+                    padding-bottom: 70px;
+                }
+                
+                .bootom-contant p {
+                    font-weight: 400;
+                    font-size: 18px;
+                    color: #777777;
+                    padding: 0px 40px;
+                    line-height: 30px;
+                }
+                /* development part end */
+                /* fetured area start */
+                
+                .fetured-area {
+                    padding: 80px 0px;
+                }
+                
+                .icon {
+                    width: 50px;
+                    height: 50px;
+                    background-color: #252525;
+                    border-radius: 50%;
+                    color: #ffffff;
+                    text-align: center;
+                    margin-left: 17px;
+                    cursor: pointer;
+                }
+                
+                .icon i {
+                    font-size: 35px;
+                    padding-top: 6px;
+                }
+                
+                .icon-text h3 {
+                    font-weight: 700;
+                    font-size: 24px;
+                    color: #222222;
+                }
+                
+                .icon-text p {
+                    font-size: 18px;
+                    font-weight: normal;
+                    color: #777777;
+                }
+                /* fetured area end */
+                /* claint part start */
+                
+                .claint-part {
+                    padding: 80px 0px;
+                    background-color: #fafafa;
+                }
+                
+                .common-titel h1 {
+                    font-size: 59px;
+                    color: #222222;
+                }
+                
+                .common-titel p {
+                    font-size: 23px;
+                    color: #777777;
+                }
+                
+                .past-circal img {
+                    width: 250px;
+                    height: 250px;
+                    border-radius: 50%;
+                    border: 5px solid #252525;
+                }
+                
+                .claint-containt {
+                    padding: 20px 40px;
+                    background-color: #ffffff;
+                    border: 0.5 solid rgb(122, 120, 120);
+                }
+                
+                .claint-containt::before {
+                    content: '';
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-top: 10px solid transparent;
+                    border-right: 20px solid rgb(230, 227, 227);
+                    border-bottom: 10px solid transparent;
+                    left: -4px;
+                    top: 48%;
+                }
+                
+                .claint-containt p {
+                    font-size: 25px;
+                }
+                
+                .b-color {
+                    font-size: 16px!important;
+                    color: #7690c5;
+                }
+                /* second claint part */
+                
+                .claint-img2 img {
+                    width: 250px;
+                    height: 250px;
+                    border-radius: 50%;
+                    border: 5px solid #252525;
+                }
+                
+                .claint-contant2 {
+                    padding: 20px 40px;
+                    background-color: #ffffff;
+                    border: 0.5 solid rgb(122, 120, 120);
+                    margin-top: 40px;
+                }
+                
+                .claint-contant2 p {
+                    font-size: 25px;
+                }
+                
+                .claint-contant2::after {
+                    content: '';
+                    width: 0;
+                    height: 0;
+                    position: absolute;
+                    border-top: 10px solid transparent;
+                    border-right: 20px solid rgb(230, 227, 227);
+                    border-bottom: 10px solid transparent;
+                    right: -3px;
+                    top: 38%;
+                }
+                /* claint part end */
+                /* claint feetback part start*/
+                
+                .claint-feetback ul li {
+                    padding-right: 35px;
+                }
+                /* claint feetback part end*/
